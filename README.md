@@ -21,3 +21,5 @@
 @RepositoryRestResourcepublic配合spring-boot-starter-data-rest使用。
 
 @RequestMapping：@RequestMapping(“/path”)表示该控制器处理所有“/path”的UR L请求。
+//案列连接
+https://github.com/JeffLi1993/springboot-learning-example/commit/52a7cde071b34692a5671a0463a19f0908373f1d

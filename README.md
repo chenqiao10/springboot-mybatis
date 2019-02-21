@@ -1,6 +1,7 @@
                                      使用springboot+mybatis
    了解springboot注解详解：
-@SpringBootApplication：包含了@ComponentScan、@Configuration和@EnableAutoConfiguration注解。其中@ComponentScan让spring Boot扫描到Configuration类并把它加入到程序上下文。
+   
+   @SpringBootApplication：包含了@ComponentScan、@Configuration和@EnableAutoConfiguration注解。其中@ComponentScan让spring Boot扫描到Configuration类并把它加入到程序上下文。
 
 @Configuration 等同于spring的XML配置文件；使用Java代码可以检查类型安全。
 
@@ -21,5 +22,7 @@
 @RepositoryRestResourcepublic配合spring-boot-starter-data-rest使用。
 
 @RequestMapping：@RequestMapping(“/path”)表示该控制器处理所有“/path”的UR L请求。
+
+
 //案列连接
 https://github.com/JeffLi1993/springboot-learning-example/commit/52a7cde071b34692a5671a0463a19f0908373f1d

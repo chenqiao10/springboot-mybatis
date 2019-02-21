@@ -1,4 +1,4 @@
-    使用springboot+mybatis
+                                     使用springboot+mybatis
    了解springboot注解详解：
 @SpringBootApplication：包含了@ComponentScan、@Configuration和@EnableAutoConfiguration注解。其中@ComponentScan让spring Boot扫描到Configuration类并把它加入到程序上下文。
 
